@@ -1,1 +1,2 @@
 # fastludo-demo
+/index.html
